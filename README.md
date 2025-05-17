@@ -31,5 +31,3 @@ Back-End: Node JS, Express JS, Mongo DB, Socket.IO, Redis
 
 
 
-### Contact Information
-Email: darshandesai1995@gmail.com
