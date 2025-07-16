@@ -19,11 +19,3 @@ Front-End: React JS, Redux-Toolkit (rtk query, redux-thunk), Firebase (authentic
 
 Back-End: Node JS, Express JS, Mongo DB, Socket.IO, Redis
 
-
-
-<img width="900" alt="notifications-menu" src="https://github.com/darshandesai1095/chat-app/assets/43254178/35d638bf-d907-4e4a-b19d-741de2896c5f">
-
-<img width="900" alt="update-profile-picture" src="https://github.com/darshandesai1095/chat-app/assets/43254178/8ed34fc7-c296-45a2-8b41-34761f0603af">
-
-
-
