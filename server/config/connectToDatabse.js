@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const connectionString = process.env.ATLAS_URI_1 || "mongodb+srv://darshandesai1095:VGNXfgAIG7jb9uRQ@chat-app-cluster.zcrus8j.mongodb.net/?retryWrites=true"
+const connectionString = process.env.ATLAS_URI_1 || "mongodb+srv://rudea1095:VGNXfgAIG7jb9uRQ@chat-app-cluster.zcrus8j.mongodb.net/?retryWrites=true"
 
 const connectToDatabase = async () => {
   try {
